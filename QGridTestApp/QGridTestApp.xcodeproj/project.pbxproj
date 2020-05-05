@@ -16,6 +16,7 @@
 		9296085122DE13BB0039ABA3 /* people.json in Resources */ = {isa = PBXBuildFile; fileRef = 9296085022DE13BB0039ABA3 /* people.json */; };
 		9296085322DE17E30039ABA3 /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9296085222DE17E30039ABA3 /* PeopleView.swift */; };
 		9296085522DE193E0039ABA3 /* Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9296085422DE193E0039ABA3 /* Storage.swift */; };
+		FA606152246175AF0091DDA7 /* ScrollTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA606151246175AF0091DDA7 /* ScrollTestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		9296085222DE17E30039ABA3 /* PeopleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
 		9296085422DE193E0039ABA3 /* Storage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Storage.swift; sourceTree = "<group>"; };
 		92A4DA6722DF2CC000069E30 /* QGrid */ = {isa = PBXFileReference; lastKnownFileType = folder; name = QGrid; path = ..; sourceTree = "<group>"; };
+		FA606151246175AF0091DDA7 /* ScrollTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollTestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				922BA2D422DA717A00691539 /* LaunchScreen.storyboard */,
 				922BA2D722DA717A00691539 /* Info.plist */,
 				922BA2D122DA717A00691539 /* Preview Content */,
+				FA606151246175AF0091DDA7 /* ScrollTestView.swift */,
 			);
 			path = QGridTestApp;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				922BA2CA22DA717700691539 /* AppDelegate.swift in Sources */,
+				FA606152246175AF0091DDA7 /* ScrollTestView.swift in Sources */,
 				9296085522DE193E0039ABA3 /* Storage.swift in Sources */,
 				922BA2CC22DA717700691539 /* SceneDelegate.swift in Sources */,
 				9296085322DE17E30039ABA3 /* PeopleView.swift in Sources */,
